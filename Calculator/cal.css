@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+html {
+    height: 100%;
+}
+
+#display
+{
+background-color: black;
+color: #53f442;
+font-family: courier;
+width: 320px;
+height: 35px;
+margin-bottom: 10px;
+border: 1px solid white;
+}
+
+
+div.btn {
+    width: 40px;
+    background: radial-gradient(darkgreen, lightgreen, darkgreen);
+    border: 1px solid white;
+}
+
+body {
+    background-color: purple;
+    margin-left: 10px;
+}
